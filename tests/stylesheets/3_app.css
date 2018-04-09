@@ -1,0 +1,205 @@
+    .pixfort_app_3 .services_style {background: #fff;
+    	background-size: cover;
+        padding: 70px  0px;
+    }
+
+     .pixfort_app_3 .gstyle {position:relative;
+         width: 75%;
+         margin-left: 13%
+   }
+
+   .pixfort_app_3 .t1_style{
+      color: #333333;
+      padding-top: 50px;
+      font-size: 28px;
+      font-family: 'open sans', sans-serif;
+      text-align: center;
+      line-height: 100%;
+      font-weight: bold;
+   }
+
+   .pixfort_app_3 .t2_style{color:#808080;
+        font-size: 20px;
+        padding: 15px 0;
+        font-family: 'open sans', sans-serif;
+        text-align: center;
+   }
+
+   .pixfort_app_3 .t3_style{color:#a9a9a9;
+        font-size: 16px;
+        padding-bottom: 50px;
+        font-family: 'open sans', sans-serif;
+        text-align: center;
+        line-height: 150%;
+   }
+
+   .pixfort_app_3 .th1_style{background: #f2f2f2;
+		width: 91%;
+		border-radius: 3px;
+		border-bottom: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+        margin-left: auto;
+        margin-right: auto;
+        overflow: hidden;
+    }
+
+   .pixfort_app_3 .a_bloc1_style{background: #e3e3e3;
+     border-bottom: 1px solid #ccc;
+   }
+
+   .pixfort_app_3 .a1_style{ text-align: center;
+     color:#808080;
+     font-size:36px;
+     font-weight: bold;
+     font-family: 'open sans', sans-serif;
+     padding-top: 30px;
+
+   }
+
+   .pixfort_app_3 .a2_style{text-align: center;
+        color:#808080;
+        font-size:18px;
+        font-family: 'open sans', sans-serif;
+        padding-bottom: 15px;
+   }
+
+   .pixfort_app_3 .a3_style{text-align: center;
+       color:#808080;
+       font-size:16px;
+       font-family: 'open sans', sans-serif;
+   }
+
+   .pixfort_app_3 .fsc1{font-size: 36px;
+        color: #696969;
+   }
+
+   .pixfort_app_3 .subscribe_st {text-align: center;
+      padding: 20px 0px;
+      height: 42px;
+    }
+
+   .pixfort_app_3 .subscribe_a  a{background: #aaa;
+        border: none;
+        color: #fff;
+        font-family: 'open sans', sans-serif;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 3px;
+
+        text-decoration:none;
+
+        position: relative;
+        display: inline-block;
+
+        padding: 10px 35px;
+    }
+
+  .pixfort_app_3 .subscribe_a a:hover {background: #999;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+
+
+  }
+
+   .pixfort_app_3 .a_bloc3_style{background: #e3e3e3;
+     border-bottom: 1px solid #ccc;
+     position: relative;
+   }
+
+
+
+    .pixfort_app_3 .th2_style{background: #f68121;
+     width: 91%;
+     border-bottom: 1px solid #df6a0a;
+     border-right: 1px solid #df6a0a;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 3px;
+     overflow: hidden;
+   }
+
+   .pixfort_app_3 .b_bloc1_style{background: #df6a0a;
+     border-bottom: 1px solid #df6a0a;
+   }
+
+   .pixfort_app_3 .b1_style{ text-align: center;
+     color:#ffffff;
+     font-size:36px;
+     font-weight: bold;
+     font-family: 'open sans', sans-serif;
+     padding-top: 30px;
+
+   }
+
+   .pixfort_app_3 .b2_style{text-align: center;
+        color:#faebd7;
+        font-size: 16px;
+        font-family: 'open sans', sans-serif;
+        padding-bottom: 15px;
+   }
+
+   .pixfort_app_3 .b3_style{text-align: center;
+       color:#faebd7;
+       font-size:16px;
+       font-family: 'open sans', sans-serif;
+   }
+
+    .pixfort_app_3 .b_bloc3_style{background: #df6a0a;
+     border-top: 1px solid #df6a0a;
+     position: relative;
+     }
+
+     .pixfort_app_3 .fsc2{font-size: 36px;
+        color: #ffffff;
+     }
+
+     .pixfort_app_3 .subscribe_b a{background: #f68121;
+        border: none;
+        color: #fff;
+        font-family: 'open sans', sans-serif;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 3px;
+
+        text-decoration:none;
+
+        position: relative;
+        display: inline-block;
+
+        padding: 10px 35px;
+    }
+
+  .pixfort_app_3 .subscribe_b a:hover {background: #ea6d19;
+        border: none;
+        color: #fff;
+        border-radius: 3px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
